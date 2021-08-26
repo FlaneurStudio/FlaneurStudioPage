@@ -31,7 +31,7 @@ export default function Home() {
         }
 
         .title {
-          margin: 0;
+          margin: 100px;
           line-height: 1.15;
           font-size: 4rem;
           font-family: Lora;
