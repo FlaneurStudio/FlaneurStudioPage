@@ -42,6 +42,7 @@ export default function Home() {
           text-align: center;
         }
 
+        
         @font-face {
           font-family: "Lora";
           src: url("/fonts/Lora-VariableFont_wght.ttf");
